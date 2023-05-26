@@ -1,0 +1,19 @@
+{
+  "name": "projeto-node-be01",
+  "version": "1.0.0",
+  "description": "Projeto de servidor em Node.js do curso de Back-End 01 | PrograMaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "uuid": "^9.0.0"
+  }
+}
