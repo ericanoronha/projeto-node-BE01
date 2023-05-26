@@ -6,6 +6,9 @@ Projeto de servidor em Node.js, com operações CRUD formando uma coleção de r
 
 - [URL do servidor local](http://localhost:3333/mulheres)
 - [URL do servidor em produção](https://projeto-node.onrender.com/mulheres)
+- [URL da aplicação em produção](https://projeto-node-be01.vercel.app)
+
+- [URL do repositório front-end](https://github.com/ericanoronha/projeto-node-react-BE01)
 
 ### Stack
 - Node v18.15.0
